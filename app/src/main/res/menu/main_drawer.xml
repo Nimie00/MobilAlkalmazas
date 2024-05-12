@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_drawermenu"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.nimie.myapplication4.MainActivity">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/login"
+            android:title="@string/login" />
+        <item
+            android:id="@+id/nav_register"
+            android:icon="@drawable/register"
+            android:title="@string/register" />
+        <item
+            android:id="@+id/nav_exchange"
+            android:icon="@drawable/exchange"
+            android:title="@string/exchange" />
+        <item
+            android:id="@+id/nav_saved_times"
+            android:icon="@drawable/saved"
+            android:title="@string/saved" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="@string/logout" />
+    </group>
+</menu>

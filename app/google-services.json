@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83285891011",
+    "project_id": "pricefollowing5",
+    "storage_bucket": "pricefollowing5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83285891011:android:e645250f2dfc70da914f76",
+        "android_client_info": {
+          "package_name": "com.nimie.myapplication4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBccltH0-_v88g0aPDsKZH7Zt-7Oo3ZpRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
